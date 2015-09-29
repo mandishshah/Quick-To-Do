@@ -15,5 +15,5 @@ module.exports = {
     TodoService.removeTodo(todoVal, function(success) {
       res.json(success);
     });
-  };
+  }
 };

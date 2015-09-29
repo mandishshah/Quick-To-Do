@@ -1,3 +1,2 @@
-# todoApp
-
-a [Sails](http://sailsjs.org) application
+# Quick-To-Do
+Quick To-Do application with AngularJS and SailsJS

@@ -30,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mandish/todoApp.git"
+    "url": "git://github.com/mandishshah/Quick-To-Do"
   },
-  "author": "mandish",
+  "author": "Mandish Shah",
   "license": ""
 }

@@ -33,8 +33,13 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mandishshah/Quick-To-Do"
+    "url": "git://github.com/mandishshah/Quick-To-Do.git"
   },
   "author": "Mandish Shah",
-  "license": ""
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandishshah/Quick-To-Do/issues"
+  },
+  "homepage": "https://github.com/mandishshah/Quick-To-Do#readme",
+  "devDependencies": {}
 }

@@ -22,7 +22,7 @@ module.exports.views = {
   * `consolidate.js`, including, but not limited to:                          *
   *                                                                           *
   * ejs, jade, handlebars, mustache underscore, hogan, haml, haml-coffee,     *
-  * dust atpl, eco, ect, jazz, jqtpl, JUST, liquor, QEJS, swig, templayed,    *
+  * dust atpl, eco, etc, jazz, jqtpl, JUST, liquor, QEJS, swig, templayed,    *
   * toffee, walrus, & whiskers                                                *
   *                                                                           *
   * For more options, check out the docs:                                     *
